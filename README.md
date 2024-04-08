@@ -75,3 +75,8 @@ This project is open source and free to use. Feel free to fork, modify, and make
 ## Contact
 
 For support, further instructions, or to contribute to the project, please reach out to me directly through my GitHub profile.
+
+## LOG
+08/04/24 - NOTE 1: I freestyle this project, there are gonna be plenty of mistakes and breaks as it goes as I am figuring out stuff on the go.
+NOTE 2: The project died quicker than the price of 99% meme coins. The API from DEX Screener has 1 minute delay...
+I will continue the project after some research into blockchain and smart contracts as I think this may be the way around it
